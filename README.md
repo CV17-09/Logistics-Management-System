@@ -24,7 +24,7 @@ Built with **Angular • TypeScript • REST APIs • PostgreSQL**
 
 **FleetOps** is a full-stack Logistics Management System designed to simulate the daily operations of a transportation and logistics company.
 
-The platform provides a centralized interface for managing the complete delivery lifecycle — from creating a shipment and assigning a driver to tracking its progress and confirming delivery.
+september review - The platform provides a centralized interface for managing the complete delivery lifecycle — from creating a shipment and assigning a driver to tracking its progress and confirming delivery.
 
 FleetOps was created to demonstrate modern **Angular development, REST API integration, relational database design, authentication, authorization, and real-world business workflows.**
 
